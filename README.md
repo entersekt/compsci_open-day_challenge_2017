@@ -14,4 +14,7 @@ Welcome to Entersekt's 2017 Coding Challenge for students of Stellenbosch Univer
 * You may leverage any resources at your disposal to complete the project but you may not outsource your work.
 * We will evaluate all aspects of the submitted work when making our decision. Please note that our decision is final. Winners will be announced on 29 September 2017.
 
-2017©Entersekt(Pty)Ltd
+# Prizes
+A new Samsung S8. Two brand new, latest generation, Raspberry Pis. And an opportunity to be selected for a paid internship at Entersekt.
+
+2017©Entersekt(Pty)Ltd.
